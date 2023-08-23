@@ -10,3 +10,8 @@ app.use(express.json());
 require('./routes/htmlRoutes')(app);
 
 app.listen(PORT, () => console.log(`Now listening on port: ${PORT}`));
+
+// 1. work on webpack config
+// 2. work on our service worker
+// 3. set up indexDB
+// 4. local storage
