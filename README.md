@@ -9,4 +9,4 @@ This is a text editor that runs in the browser. The app is a single-page applica
 <img width="1437" alt="Screenshot 2023-08-23 at 2 46 42 PM" src="https://github.com/smokhadar/textEditorPWA/assets/127573523/463831c4-476d-49bd-98ba-39e66c3902ab">
 
 ## Deployed Application
-Here is the link to the deployed application: https://dashboard.heroku.com/apps/pwa-text-editor-final.
+Here is the link to the deployed application: https://pwa-text-editor-final-89ebf7a75fb8.herokuapp.com
